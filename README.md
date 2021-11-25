@@ -1,7 +1,7 @@
 # Blockchain project
 
 Single file project written in Python that I did during a Blockchain course.
-This was helpfull for me to adquire the main Blockchain concepts.
+This was helpful for me to adquire the main Blockchain concepts.
 It runs on a local Flask server and it can be used trought Postman doing request to some endpoints.
 
 ## Disclaimer
