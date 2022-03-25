@@ -20,6 +20,6 @@ Prerequisites: You will need python and postman to be installed in your pc.
 4. Play arround with the endponits: Mine some blocks, get the chain and see how the blocks was added to it, and last but not least, validate the chain!
 
 ## Available methods:
-* 0.0.0.0/mine_block
-* 0.0.0.0/get_chain
-* 0.0.0.0/valid
+* 0.0.0.0:5000/mine_block
+* 0.0.0.0:5000/get_chain
+* 0.0.0.0:5000/valid
